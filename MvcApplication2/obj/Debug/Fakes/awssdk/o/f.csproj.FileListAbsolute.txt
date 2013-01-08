@@ -1,0 +1,7 @@
+G:\Users\cloudy\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Debug\Fakes\awssdk\b\AWSSDK.1.5.10.0.Fakes.xml
+G:\Users\cloudy\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Debug\Fakes\awssdk\b\AWSSDK.1.5.10.0.Fakes.dll
+G:\Users\cloudy\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Debug\Fakes\awssdk\b\AWSSDK.1.5.10.0.Fakes.pdb
+G:\Users\cloudy\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Debug\Fakes\awssdk\b\Microsoft.QualityTools.Testing.Fakes.dll
+G:\Users\cloudy\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Debug\Fakes\awssdk\o\f.csprojResolveAssemblyReference.cache
+G:\Users\cloudy\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Debug\Fakes\awssdk\o\AWSSDK.1.5.10.0.Fakes.dll
+G:\Users\cloudy\documents\visual studio 2012\Projects\MvcApplication2\MvcApplication2\obj\Debug\Fakes\awssdk\o\AWSSDK.1.5.10.0.Fakes.pdb

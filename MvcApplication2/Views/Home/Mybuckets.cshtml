@@ -1,0 +1,18 @@
+﻿@*@using Amazon;
+@using Amazon.S3;
+@using Amazon.S3.Model;*@
+
+@{
+    ViewBag.Title = "Mybuckets"; 
+}
+
+<h2>Mybuckets</h2>
+<div>
+@{
+    
+    foreach( var bucket in ViewBag.buckets)
+    {
+       <a href="http://www.google.com"> @bucket.BucketName; </a><br />
+    }
+}
+</div>
